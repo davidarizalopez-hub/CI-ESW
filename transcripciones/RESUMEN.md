@@ -15,7 +15,7 @@ Que **todo lo pendiente de la semana 40 hacia atrás quede programado** en conte
 **Lo que se propone**
 - Revisar de nuevo, de la semana 40 hacia atrás (la 41 ya está lista), todo lo pendiente por carga o despacho, y asignarle a todo un código de contenedor, ya sea preliminar o real.
 - Si el PM confirma que un saldo se va con la producción de la semana en curso → se agrega a esa semana.
-- Si no → se crea un **código general de compartidos** por bolsa (semanas 37 a 40): GMP, Conti Glass, ES Windows por retail y ES Windows con el siguiente envío.
+- Si no → se crea un **código general de compartidos** por bolsa (semanas 37 a 40): GM&P, Conti Glass, ES Windows por retail y ES Windows con el siguiente envío.
 - Desde esos códigos se va "jalando" hacia el contenedor definitivo, para que el sistema agrupe solo.
 - Los códigos de compartidos deben quedar **marcados como provisionales** en el programador, y no los ve nadie más.
 
@@ -27,11 +27,11 @@ Que **todo lo pendiente de la semana 40 hacia atrás quede programado** en conte
 ## 2. Punto de vista – Jefe de Despacho
 
 - Organizar todas las órdenes en **tres bolsas**:
-  1. Heavy Duty + Conti Glass
+  1. GM&P + Conti Glass
   2. Retail
   3. Proyectos independientes
 - Dentro de cada bolsa, **armar los contenedores dinámicamente**: revisar cada orden, ver qué unidades y sistemas lleva, y con eso armar los contenedores.
-- Heavy Duty y Conti Glass se pueden mezclar entre sí, y también con los contenedores de Retail.
+- GM&P y Conti Glass se pueden mezclar entre sí, y también con los contenedores de Retail.
 - El objetivo es **consolidar y optimizar la carga** de cada contenedor (mejor cubicación), partiendo del PT e incluyendo tanto órdenes completas como incompletas.
 - Lo define como un **"despacho dinámico"**, y espera que el equipo pueda trabajar así.
 
@@ -43,7 +43,7 @@ Pide **barrer todo lo pendiente por programar de la semana 40 hacia atrás**, en
 2. **Lo que está incompleto.** Identificar, por producción, qué falta para salir a completarlo: piezas, vidrio suelto, accesorios, etc.
 
 **Acciones que pide**
-- Armar ya los contenedores de compartidos con lo que hay en PT (completo o incompleto). Ahí salen los "varios" de GMP y los compartidos de ES Windows.
+- Armar ya los contenedores de compartidos con lo que hay en PT (completo o incompleto). Ahí salen los "varios" de GM&P y los compartidos de ES Windows.
 - Revisar lo que avanzaron ayer Emily o Laura, y lo que quedó sin código de programación.
 - En ES Windows: montar lo disponible en los contenedores de retail y programarlo enseguida, o armar un compartido de cliente de retail por ruta.
 
