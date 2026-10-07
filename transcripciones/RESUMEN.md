@@ -27,11 +27,11 @@ Que **todo lo pendiente de la semana 40 hacia atrás quede programado** en conte
 ## 2. Punto de vista – Jefe de Despacho
 
 - Organizar todas las órdenes en **tres bolsas**:
-  1. Heavy Pay [?] + Conti Glass
+  1. Heavy Duty + Conti Glass
   2. Retail
   3. Proyectos independientes
 - Dentro de cada bolsa, **armar los contenedores dinámicamente**: revisar cada orden, ver qué unidades y sistemas lleva, y con eso armar los contenedores.
-- Heavy Pay y Conti Glass se pueden mezclar entre sí, y también con los contenedores de Retail.
+- Heavy Duty y Conti Glass se pueden mezclar entre sí, y también con los contenedores de Retail.
 - El objetivo es **consolidar y optimizar la carga** de cada contenedor (mejor cubicación), partiendo del PT e incluyendo tanto órdenes completas como incompletas.
 - Lo define como un **"despacho dinámico"**, y espera que el equipo pueda trabajar así.
 
@@ -43,7 +43,7 @@ Pide **barrer todo lo pendiente por programar de la semana 40 hacia atrás**, en
 2. **Lo que está incompleto.** Identificar, por producción, qué falta para salir a completarlo: piezas, vidrio suelto, accesorios, etc.
 
 **Acciones que pide**
-- Armar ya los contenedores de compartidos con lo que hay en PT (completo o incompleto). Ahí salen los "varios" de MIP [?] y los compartidos de IES Windows.
+- Armar ya los contenedores de compartidos con lo que hay en PT (completo o incompleto). Ahí salen los "varios" de GMP y los compartidos de IES Windows.
 - Revisar lo que avanzaron ayer Emilio o Laura [?], y lo que quedó sin código de programación.
 - En IES Windows: montar lo disponible en los contenedores de retail y programarlo enseguida, o armar un compartido de cliente de retail por ruta.
 
@@ -57,7 +57,6 @@ Pide **barrer todo lo pendiente por programar de la semana 40 hacia atrás**, en
 
 ## Términos por confirmar
 
-- **Heavy Pay**, **GMP** y **MIP**: podrían ser el mismo cliente o línea, mal reconocido por la transcripción automática.
 - **IES Windows**: nombre del cliente o línea según cómo se escuchó.
 - **Emilio / Laura**: nombres según cómo se escucharon.
 - **"lo que vamos a pintar"** (audio de Operaciones): no está claro el sentido.

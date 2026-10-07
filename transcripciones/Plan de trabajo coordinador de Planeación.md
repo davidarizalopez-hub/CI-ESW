@@ -23,7 +23,7 @@ curso, se lo agregábamos a la semana en curso. Si no, íbamos a generar un cód
 compartidos. Entonces yo había entendido que con ese código general de compartidos, listos o no,
 iban a ir tomando lo que hay, ¿sí me entienden? Toda la bolsa, de la 37 a la 40, iba a tener unos
 compartidos generales. Que llenen o no contenedor, eso no lo sabíamos, pero iban a estar en unas
-bolsas: el de GMP [?], el de Conti Glass, el de IES Windows [?] que se va por retail y el de IES
+bolsas: el de GMP, el de Conti Glass, el de IES Windows [?] que se va por retail y el de IES
 Windows que se va con el que viene.
 
 —Entonces, si estoy entendiendo bien, lo que tú dices es coger todo eso que no tiene código,
