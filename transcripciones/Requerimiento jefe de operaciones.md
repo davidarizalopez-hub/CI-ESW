@@ -16,7 +16,7 @@ barrer lo que tenemos ahí. Porque lo que tenemos —completo o incompleto— lo
 entonces salir con eso y armar los contenedores.
 
 Ahí nos salen los varios de GMP y nos salen también los compartidos de ES Windows. Entiendo
-que ayer no sé hasta qué punto lograron hacer Emilio o Laura [?], o algo se alcanzó a hacer. Pero lo
+que ayer no sé hasta qué punto lograron hacer Emily o Laura, o algo se alcanzó a hacer. Pero lo
 que nos quedó, lo que vamos a pitar que no tiene código de programación, también lo vamos a
 revisar.
 

@@ -44,7 +44,7 @@ Pide **barrer todo lo pendiente por programar de la semana 40 hacia atrás**, en
 
 **Acciones que pide**
 - Armar ya los contenedores de compartidos con lo que hay en PT (completo o incompleto). Ahí salen los "varios" de GMP y los compartidos de ES Windows.
-- Revisar lo que avanzaron ayer Emilio o Laura [?], y lo que quedó sin código de programación.
+- Revisar lo que avanzaron ayer Emily o Laura, y lo que quedó sin código de programación.
 - En ES Windows: montar lo disponible en los contenedores de retail y programarlo enseguida, o armar un compartido de cliente de retail por ruta.
 
 **Resultado esperado:** todo lo de la semana 40 hacia atrás programado, más una lista de faltantes por producción vencida.
@@ -54,7 +54,3 @@ Pide **barrer todo lo pendiente por programar de la semana 40 hacia atrás**, en
 - **Los tres coinciden** en trabajar por "bolsas" de clientes o líneas, armar contenedores compartidos con lo que hay en PT y no dejar nada sin código.
 - **Diferencia en el criterio:** Planeación propone códigos provisionales por bolsa y jalar desde ahí. Despacho propone armar los contenedores dinámicamente, optimizando la carga y mezclando bolsas. Operaciones pone el foco en separar lo completo de lo incompleto para no generar más backorders.
 - **Por definir:** qué esquema se adopta y quién se encarga de cada bolsa.
-
-## Términos por confirmar
-
-- **Emilio / Laura**: nombres según cómo se escucharon.
