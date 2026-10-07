@@ -15,12 +15,12 @@ completarlo. Pero vamos armando los contenedores de los compartidos con lo que t
 barrer lo que tenemos ahí. Porque lo que tenemos —completo o incompleto— lo tenemos en el PT,
 entonces salir con eso y armar los contenedores.
 
-Ahí nos salen los varios de GMP y nos salen también los compartidos de IES Windows [?]. Entiendo
+Ahí nos salen los varios de GMP y nos salen también los compartidos de ES Windows. Entiendo
 que ayer no sé hasta qué punto lograron hacer Emilio o Laura [?], o algo se alcanzó a hacer. Pero lo
-que nos quedó, lo que vamos a pintar [?] que no tiene código de programación, también lo vamos a
+que nos quedó, lo que vamos a pitar que no tiene código de programación, también lo vamos a
 revisar.
 
-Entonces, en IES Windows, revisar que lo que tenemos lo podamos montar en los contenedores de retail
+Entonces, en ES Windows, revisar que lo que tenemos lo podamos montar en los contenedores de retail
 y programarlo enseguida, o armar también un compartido de cliente de retail de ruta, y que salga lo
 que tenemos. Para que el resultado final sea que todo lo que está de la 40 para atrás ya esté
 programado, y además identificado lo que tenemos que salir a completar de esas producciones

@@ -15,7 +15,7 @@ Que **todo lo pendiente de la semana 40 hacia atrás quede programado** en conte
 **Lo que se propone**
 - Revisar de nuevo, de la semana 40 hacia atrás (la 41 ya está lista), todo lo pendiente por carga o despacho, y asignarle a todo un código de contenedor, ya sea preliminar o real.
 - Si el PM confirma que un saldo se va con la producción de la semana en curso → se agrega a esa semana.
-- Si no → se crea un **código general de compartidos** por bolsa (semanas 37 a 40): GMP, Conti Glass, IES Windows por retail e IES Windows con el siguiente envío.
+- Si no → se crea un **código general de compartidos** por bolsa (semanas 37 a 40): GMP, Conti Glass, ES Windows por retail y ES Windows con el siguiente envío.
 - Desde esos códigos se va "jalando" hacia el contenedor definitivo, para que el sistema agrupe solo.
 - Los códigos de compartidos deben quedar **marcados como provisionales** en el programador, y no los ve nadie más.
 
@@ -43,9 +43,9 @@ Pide **barrer todo lo pendiente por programar de la semana 40 hacia atrás**, en
 2. **Lo que está incompleto.** Identificar, por producción, qué falta para salir a completarlo: piezas, vidrio suelto, accesorios, etc.
 
 **Acciones que pide**
-- Armar ya los contenedores de compartidos con lo que hay en PT (completo o incompleto). Ahí salen los "varios" de GMP y los compartidos de IES Windows.
+- Armar ya los contenedores de compartidos con lo que hay en PT (completo o incompleto). Ahí salen los "varios" de GMP y los compartidos de ES Windows.
 - Revisar lo que avanzaron ayer Emilio o Laura [?], y lo que quedó sin código de programación.
-- En IES Windows: montar lo disponible en los contenedores de retail y programarlo enseguida, o armar un compartido de cliente de retail por ruta.
+- En ES Windows: montar lo disponible en los contenedores de retail y programarlo enseguida, o armar un compartido de cliente de retail por ruta.
 
 **Resultado esperado:** todo lo de la semana 40 hacia atrás programado, más una lista de faltantes por producción vencida.
 
@@ -57,6 +57,4 @@ Pide **barrer todo lo pendiente por programar de la semana 40 hacia atrás**, en
 
 ## Términos por confirmar
 
-- **IES Windows**: nombre del cliente o línea según cómo se escuchó.
 - **Emilio / Laura**: nombres según cómo se escucharon.
-- **"lo que vamos a pintar"** (audio de Operaciones): no está claro el sentido.
